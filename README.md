@@ -11,7 +11,7 @@
 
 ## 담당 구현 내용
 
-[Link](https://docs.google.com/presentation/d/1zQLtSxlTP_Q6UxcVXtRSc0MwHc20ZQ2qjE3dL7Zg0hE/edit?usp=sharing)
+- [Link](https://docs.google.com/presentation/d/1zQLtSxlTP_Q6UxcVXtRSc0MwHc20ZQ2qjE3dL7Zg0hE/edit?usp=sharing)
 
 ## Features
 
